@@ -1,0 +1,6 @@
+{
+  "name": "NOWHERE — Stay out of the loop · circle",
+  "description": "Vol. 01. Nine looks for going quiet. Spin the ring, pick a fit, tap a dot to shop the item.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
